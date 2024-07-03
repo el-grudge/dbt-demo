@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: portal
+    description: ""
+  - name: site_analysis
+    description: ""
+  - name: site_analysis_pivot
+    description: ""
